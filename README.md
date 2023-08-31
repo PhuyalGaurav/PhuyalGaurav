@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://i.pinimg.com/originals/ca/d7/40/cad7401aaaf15e234a0461e02b51f74c.gif" height="90" width="90">Hi 👋, I'm Gaurav Phuyal<img src="https://i.pinimg.com/originals/ca/d7/40/cad7401aaaf15e234a0461e02b51f74c.gif" height="90" width="90"></h1>
+<img src="https://i.pinimg.com/originals/ca/d7/40/cad7401aaaf15e234a0461e02b51f74c.gif" height="90" width="90"><h1 align="center">Hi 👋, I'm Gaurav Phuyal<img src="https://i.pinimg.com/originals/ca/d7/40/cad7401aaaf15e234a0461e02b51f74c.gif" height="90" width="90"></h1>
 <h3 align="center">I am a student from Nepal. Currently pursuing my high school.</h3>
 <h3 align="center">Visit my <a href="https://phuyalgaurav.github.io/">Website</a><h3>
 
