@@ -2,9 +2,9 @@
 <h3 align="center">I am a student from Nepal. Currently pursuing my high school.</h3>
 <h3 align="center">Visit my <a href="https://phuyalgaurav.github.io/">Website</a><h3>
 
-- 🔭 I’m currently working on [yoga](https://github.com/PhuyalGaurav/yoga)
+- 🔭 I’m currently working on [commerce](https://github.com/PhuyalGaurav/commerce)
 
-- 🌱 I’m currently learning **Django, Flask**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Django, Python.**
 
