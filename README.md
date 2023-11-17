@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an intermediate Python developer with about 3 years of experience. I’m also currently learning Django and React, so if you need anything, feel free to ask me 😊..
+I’m an intermediate Python developer with about 3 years of experience. I’m also currently learning Django and React, so if you need anything, feel free to ask me 😊.
 
 
 ## 🌐 Socials:
