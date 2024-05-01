@@ -7,17 +7,17 @@
 
 <!--Stats-->
 
-[<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>](#)
+[<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Phuyalgaurav&theme=dark&hide_border=true"/>](#)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753)
+[![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/572936387473440768)
 
 </br>
 <!-- Snake Contrib Graph -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phuyalgaurav/Phuyalgaurav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phuyalgaurav/Phuyalgaurav/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Phuyalgaurav/Phuyalgaurav/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -34,7 +34,7 @@
 <details>
   <summary><h2>📛 Holopin Badges</h2></summary>
   
-  [![ @luluw8071's Holopin badges](https://holopin.me/luluw8071)](https://holopin.io/@luluw8071)
+  [![ @Phuyalgaurav's Holopin badges](https://holopin.me/Phuyalgaurav)](https://holopin.io/@Phuyalgaurav)
 </details>
 
 </summary>
@@ -47,9 +47,6 @@
 <div align="right">
   
 ## Socials :rocket::star2:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shashin-mhrzn/)&nbsp;
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/600529917977034753)&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Luluw_Mhrzn)&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:shashinmaharjan@gmail.com)&nbsp;
-
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/572936387473440768)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:phuyalgaurav90@gmail.com)&nbsp;
 </div>
