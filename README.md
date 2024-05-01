@@ -1,14 +1,1 @@
-# 💫 About Me:
-I’m an intermediate Python developer with about 3 years of experience. I’m also currently learning Django and React. so if you need anything, feel free to ask me 😊.
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phuyalgaurav&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=phuyalgaurav&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfoysal&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=phuyalgaurav&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=phuyalgaurav&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Metrics](https://metrics.lecoq.io/phuyalgaurav?template=classic&base.hireable=true&fortune=1&music=1&introduction=1&projects=1&achievements=1&stargazers=1&habits=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&stargazers=false&stargazers.days=999999&stargazers.charts=true&stargazers.charts.type=chartist&stargazers.worldmap=false&stargazers.worldmap.sample=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&music=false&music.provider=youtube&music.user=TaylorSwift&music.mode=recent&music.playlist=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtqxRidAWER8%26list%3DPLQRQJ1vj29EZdJdf86XNzRQffk7lXhQQI&music.limit=4&music.played.at=true&music.time.range=short&music.top.type=tracks&fortune=false&config.timezone=Asia%2FKatmandu&config.twemoji=true&config.octicon=true&config.display=columns)
