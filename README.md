@@ -9,17 +9,9 @@
 
 [<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Phuyalgaurav&theme=dark&hide_border=true"/>](#)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/572936387473440768)
+[![Discord Presence](https://lanyard.cnrad.dev/api/572936387473440768)](https://discord.com/users/572936387473440768)
 
 </br>
-<!-- Snake Contrib Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phuyalgaurav/Phuyalgaurav/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phuyalgaurav/Phuyalgaurav/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Phuyalgaurav/Phuyalgaurav/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ## :wrench: My Stacks
 
@@ -30,19 +22,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel" alt="Styling library & Deploy" height="55"/> </br>
   <img src="https://skillicons.dev/icons?i=ae" alt="Extra Skills" height="55"/> </br>
 </div>
-
-<details>
-  <summary><h2>📛 Holopin Badges</h2></summary>
-  
-  [![ @Phuyalgaurav's Holopin badges](https://holopin.me/Phuyalgaurav)](https://holopin.io/@Phuyalgaurav)
-</details>
-
-</summary>
-
-<p align="left">
-  </br>
-  <img align = "left" src="follow.gif" height="100%" width="35%" style="vertical-align: top;">
-</p>
 
 <div align="right">
   

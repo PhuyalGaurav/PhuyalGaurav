@@ -20,7 +20,7 @@ jobs:
         with:
           filename: assets/general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: luluw8071
+          user: phuyalgaurav
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kathmandu
