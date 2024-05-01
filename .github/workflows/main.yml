@@ -1,100 +1,43 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: generate animation
+
 on:
-  # Schedule updates (each hour)
-  schedule: [{ cron: "0 * * * *" }]
-  # Lines below let you run workflow manually and on each commit
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
+  # allows to manually run the job at any time
   workflow_dispatch:
-  push: { branches: ["master", "main"] }
+
+  # run on every push on the master branch
+  push:
+    branches:
+      - master
+
 jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
+  generate:
     permissions:
       contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
-          # Options
-          user: phuyalgaurav
-          template: classic
-          base: header, activity, community, repositories, metadata
-          base_hireable: yes
-          config_timezone: Asia/Katmandu
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: B
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: public
-          plugin_fortune: yes
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_aliases: javascript:JS
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: playlist
-          plugin_music_played_at: yes
-          plugin_music_playlist: https://music.youtube.com/playlist?list=PLQRQJ1vj29EZdJdf86XNzRQffk7lXhQQI&si=c4R85EATXpN0BhHs
-          plugin_music_provider: youtube
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: UCkzCCnvI2NalpwsAjKuFDtw
-          plugin_nightscout: yes
-          plugin_nightscout_datapoints: 12
-          plugin_nightscout_highalert: 180
-          plugin_nightscout_lowalert: 80
-          plugin_nightscout_urgenthighalert: 250
-          plugin_nightscout_urgentlowalert: 50
-          plugin_nightscout_url: https://example.herokuapp.com
-          plugin_people: yes
-          plugin_people_limit: 10
-          plugin_people_size: 28
-          plugin_people_thanks: prof-gautam
-          plugin_people_types: followers, following
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://news.ycombinator.com/
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
