@@ -12,18 +12,21 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/572936387473440768)](https://discord.com/users/572936387473440768)
 
 <br>
+<br>
+<br>
+<br>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phuyalgaurav/phuyalgaurav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phuyalgaurav/phuyalgaurav/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phuyalgaurav/phuyalgaurav/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
+<br>
 <div align="center">
 
-## Tech Stack
+<h1>Tech Stack 🚀👩‍🚀</h1>
 
 <img src="https://skillicons.dev/icons?i=py" alt="Programming Language"  height="90"/> </br>
 <img src="https://skillicons.dev/icons?i=django,fastapi" alt="Frameworks" height="70"/> </br>
@@ -38,4 +41,5 @@
 ## Socials :rocket::star2:
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/572936387473440768)&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:phuyalgaurav90@gmail.com)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=instagram)](https://instagram.com/phuyalgaurav90)&nbsp;
 </div>
