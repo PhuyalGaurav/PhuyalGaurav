@@ -20,14 +20,17 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
-## :wrench: My Stacks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css,php,md" alt="Programming Language"  height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,matlab,opencv,nextjs,django,flask" alt="Frameworks" height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,sqlite,mysql" alt="Tools & Database" height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel" alt="Styling library & Deploy" height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=ae" alt="Extra Skills" height="55"/> </br>
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=py" alt="Programming Language"  height="90"/> </br>
+<img src="https://skillicons.dev/icons?i=django,fastapi" alt="Frameworks" height="70"/> </br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & Database" height="60"/> </br>
+<img src="https://skillicons.dev/icons?i=redux,arch,mysql,mongodb,react" alt="Styling library & Deploy" height="50"/> </br>
+<img src="https://skillicons.dev/icons?i=docker,bootstrap,tailwind,htmx,css,c" alt="Extra Skills" height="45"/> </br>
+
 </div>
 
 <div align="right">
