@@ -27,12 +27,21 @@
 <div align="center">
 
 <h1>Tech Stack 🚀👩‍🚀</h1>
-
-<img src="https://skillicons.dev/icons?i=py" alt="Programming Language"  height="90"/> </br>
-<img src="https://skillicons.dev/icons?i=django,fastapi" alt="Frameworks" height="70"/> </br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & Database" height="60"/> </br>
-<img src="https://skillicons.dev/icons?i=redux,arch,mysql,mongodb,react" alt="Styling library & Deploy" height="50"/> </br>
-<img src="https://skillicons.dev/icons?i=docker,bootstrap,tailwind,htmx,css,c" alt="Extra Skills" height="45"/> </br>
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=fastapi" alt="Programming Language"  height="65"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Programming Language"  height="65"/>
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=vercel" alt="Programming Language"  height="65"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=cloudflare" alt="Programming Language"  height="65"/>
+</div>
 
 </div>
 
