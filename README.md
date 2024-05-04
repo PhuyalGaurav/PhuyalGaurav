@@ -46,7 +46,5 @@
 <div align="right">
   
 ## Socials :rocket::star2:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/572936387473440768)&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:phuyalgaurav90@gmail.com)&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=instagram)](https://instagram.com/phuyalgaurav90)&nbsp;
 </div>
