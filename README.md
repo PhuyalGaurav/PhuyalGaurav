@@ -9,8 +9,7 @@
 
 [<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Phuyalgaurav&theme=dark&hide_border=true"/>](#)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/572936387473440768)](https://discord.com/users/572936387473440768)
-
+[<img align="right" width="350" alt="Achievements" src="assets/privacy.svg">](#)
 <br>
 <br>
 <br>
