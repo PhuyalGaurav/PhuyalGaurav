@@ -9,13 +9,6 @@
 
 [<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Phuyalgaurav&theme=dark&hide_border=true"/>](#)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/572936387473440768)](https://discord.com/users/572936387473440768)
-
-<br>
-<br>
-<br>
-<br>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phuyalgaurav/phuyalgaurav/output/github-contribution-grid-snake-dark.svg">
