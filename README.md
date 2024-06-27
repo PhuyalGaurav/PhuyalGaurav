@@ -1,5 +1,3 @@
-<!--LuluW Profile-->
-
 <!--Metrics-->
 
 [<img align="left" width="400" alt="General Metrics" src="assets/general.svg">](#)
