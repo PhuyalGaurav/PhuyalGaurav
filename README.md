@@ -7,7 +7,7 @@
 
 [<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Phuyalgaurav&theme=dark&hide_border=true"/>](#)
 
-[<img align="center" width="400" alt="Achievements" src="assets/privacy.svg">](#)
+[<img align="center" width="400" alt="Achievements" src="assets/new.gif">](#)
 <br>
 <br>
 <br>
