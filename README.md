@@ -9,10 +9,6 @@
 
 [<img align="center" width="400" alt="Achievements" src="assets/new.gif">](#)
 <br>
-<br>
-<br>
-<br>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phuyalgaurav/phuyalgaurav/output/github-contribution-grid-snake-dark.svg">
@@ -20,7 +16,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phuyalgaurav/phuyalgaurav/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-<br>
 <div align="center">
 
 <h1>Tech Heap (cuz its dynamic 😆) 🚀👩‍🚀</h1>
