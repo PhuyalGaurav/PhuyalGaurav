@@ -26,10 +26,7 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="Programming Language"  height="65"/>
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=vercel" alt="Programming Language"  height="65"/>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://skillicons.dev/icons?i=rust" alt="Programming Language"  height="65"/>
 </div>
