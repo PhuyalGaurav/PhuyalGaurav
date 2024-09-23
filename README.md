@@ -37,4 +37,5 @@
   
 ## Socials :rocket::star2:
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:phuyalgaurav90@gmail.com)&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/red.rupees)&nbsp;
 </div>
