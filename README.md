@@ -1,4 +1,4 @@
-<!--Metrics-->
+<!-- Metrics-->
 
 [<img align="left" width="400" alt="General Metrics" src="assets/general.svg">](#)
 [<img align="right" width="400" alt="Achievements" src="assets/achievements.svg">](#)
