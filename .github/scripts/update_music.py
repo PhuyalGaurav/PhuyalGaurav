@@ -6,15 +6,20 @@ import sys
 import traceback
 
 # Last.fm credentials
-lastfm_api_key = os.environ.get('LASTFM_API_KEY')
-lastfm_username = os.environ.get('LASTFM_USERNAME')
+lastfm_api_key = "1178baedce7dd1bd450535fb7ed9eaec"
+lastfm_username = "gauravphuyal"
 
-# Discord webhook for logging
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1358522852999041215/VU3mbXSm0oiQ1jcUhETS8J5kGan30RBuBqQhkuPh0BC66gFwbhOFs4pGqzGrDlRvBm_x"
+# Discord webhook from environment variable
+DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
 def send_discord_message(content, title=None, success=True):
     """Send a message to Discord webhook"""
     try:
+        # Check if webhook URL is configured
+        if not DISCORD_WEBHOOK_URL:
+            print("Warning: DISCORD_WEBHOOK_URL environment variable not set. Skipping Discord notification.")
+            return
+            
         color = 0x00FF00 if success else 0xFF0000  # Green for success, Red for errors
         payload = {
             "embeds": [
@@ -112,13 +117,47 @@ def update_readme(track_info):
         print(f"Start marker present: {start_marker in content}")
         print(f"End marker present: {end_marker in content}")
         
-        music_section = f"{start_marker}\n### {track_info['status']} on YouTube Music\n\n"
+        # Enhanced music section with better styling
+        music_section = f"{start_marker}\n"
+        music_section += "<div align='center'>\n\n"
+        
+        # Status with emoji and styled heading
+        status_emoji = "🎧" if track_info['status'] == "Now playing" else "🎵"
+        music_section += f"## {status_emoji} {track_info['status']} on YouTube Music\n\n"
+        
+        # Album artwork with shadow effect
         if track_info['image_url']:
+            music_section += "<kbd>\n\n"
             music_section += f"[![{track_info['song_name']}]({track_info['image_url']})]({track_info['image_url']})\n\n"
-        music_section += f"**{track_info['song_name']}** by {track_info['artist']}\n"
+            music_section += "</kbd>\n\n"
+        
+        # Track info with better styling
+        music_section += f"### [{track_info['song_name']}](https://www.youtube.com/results?search_query={requests.utils.quote(f'{track_info['artist']} {track_info['song_name']}')})\n\n"
+        
+        # Artist and album with decorative elements
+        music_section += f"**🎤 Artist:** {track_info['artist']}\n\n"
+        
         if track_info['album']:
-            music_section += f"Album: {track_info['album']}\n"
-        music_section += f"\n{end_marker}"
+            music_section += f"**💿 Album:** {track_info['album']}\n\n"
+        
+        # Add timestamp in Nepal time
+        from datetime import datetime
+        import pytz
+        
+        # Add pytz to your pip install if needed
+        try:
+            nepal_timezone = pytz.timezone('Asia/Kathmandu')
+            current_time_utc = datetime.now(pytz.UTC)
+            current_time_nepal = current_time_utc.astimezone(nepal_timezone)
+            nepal_time_str = current_time_nepal.strftime("%Y-%m-%d %H:%M:%S")
+            music_section += f"<sub>Last updated: {nepal_time_str} (Nepal Time)</sub>\n\n"
+        except ImportError:
+            # Fallback if pytz is not installed
+            current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            music_section += f"<sub>Last updated: {current_time}</sub>\n\n"
+        
+        music_section += "</div>\n\n"
+        music_section += end_marker
         
         if start_marker in content and end_marker in content:
             pattern = re.compile(f"{re.escape(start_marker)}.*?{re.escape(end_marker)}", re.DOTALL)
