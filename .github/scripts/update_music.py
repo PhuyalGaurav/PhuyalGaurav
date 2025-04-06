@@ -5,9 +5,9 @@ import json
 import sys
 import traceback
 
-# Last.fm credentials
-lastfm_api_key = "1178baedce7dd1bd450535fb7ed9eaec"
-lastfm_username = "gauravphuyal"
+# Last.fm credentials from environment variables with fallback
+lastfm_api_key = os.environ.get("LASTFM_API_KEY")
+lastfm_username = os.environ.get("LASTFM_USERNAME", "gauravphuyal")
 
 # Discord webhook from environment variable
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
