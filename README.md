@@ -3,7 +3,7 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
 <kbd>
 
@@ -17,7 +17,7 @@
 
 **💿 Album:** Hell Freezes Over
 
-<sub>Last updated: 2025-04-07 01:42:31 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-07 01:58:01 (Nepal Time)</sub>
 
 </div>
 
