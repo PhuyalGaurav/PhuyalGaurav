@@ -6,21 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎵 Last played on YouTube Music
+## 🎧 Now playing on YouTube Music
 
 <kbd>
 
-[![In the City](https://lastfm.freetls.fastly.net/i/u/174s/ec559161068a480699519195e06af1e7.png)](https://lastfm.freetls.fastly.net/i/u/174s/ec559161068a480699519195e06af1e7.png)
+[![Runaway](https://lastfm.freetls.fastly.net/i/u/174s/f5afd8fe052b452c999b657664cae99f.png)](https://lastfm.freetls.fastly.net/i/u/174s/f5afd8fe052b452c999b657664cae99f.png)
 
 </kbd>
 
-### [In the City](https://www.youtube.com/results?search_query=Eagles%20In%20the%20City)
+### [Runaway](https://www.youtube.com/results?search_query=Kanye%20West%20Runaway)
 
-**🎤 Artist:** Eagles
+**🎤 Artist:** Kanye West
 
-**💿 Album:** Hell Freezes Over
+**💿 Album:** My Beautiful Dark Twisted Fantasy
 
-<sub>Last updated: 2025-04-07 01:58:01 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-07 02:15:40 (Nepal Time)</sub>
 
 </div>
 
