@@ -5,6 +5,9 @@ on:
     - cron: "*/20 * * * *" 
   workflow_dispatch: 
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with YouTube Music activity
