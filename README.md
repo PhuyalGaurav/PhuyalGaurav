@@ -6,7 +6,7 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
 <kbd>
 
@@ -20,7 +20,7 @@
 
 **💿 Album:** My Beautiful Dark Twisted Fantasy
 
-<sub>Last updated: 2025-04-07 02:15:40 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-07 02:28:12 (Nepal Time)</sub>
 
 </div>
 
