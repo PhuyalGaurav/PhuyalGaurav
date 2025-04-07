@@ -6,13 +6,13 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
 ### [Bicycle Song](https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Bicycle%20Song)
 
 **🎤 Artist:** Red Hot Chili Peppers
 
-<sub>Last updated: 2025-04-07 15:00:05 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-07 15:18:18 (Nepal Time)</sub>
 
 </div>
 
