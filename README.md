@@ -10,17 +10,17 @@
 
 <kbd>
 
-[![Runaway](https://lastfm.freetls.fastly.net/i/u/174s/f5afd8fe052b452c999b657664cae99f.png)](https://lastfm.freetls.fastly.net/i/u/174s/f5afd8fe052b452c999b657664cae99f.png)
+[![Bicycle Song](https://lastfm.freetls.fastly.net/i/u/174s/598b41917c70a08782be7986198fabdc.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/598b41917c70a08782be7986198fabdc.jpg)
 
 </kbd>
 
-### [Runaway](https://www.youtube.com/results?search_query=Kanye%20West%20Runaway)
+### [Bicycle Song](https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Bicycle%20Song)
 
-**🎤 Artist:** Kanye West
+**🎤 Artist:** Red Hot Chili Peppers
 
-**💿 Album:** My Beautiful Dark Twisted Fantasy
+**💿 Album:** By the Way (Deluxe Edition)
 
-<sub>Last updated: 2025-04-07 10:01:22 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-07 10:22:19 (Nepal Time)</sub>
 
 </div>
 
