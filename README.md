@@ -8,11 +8,19 @@
 
 ## 🎵 Last played on YouTube Music
 
-### [Bicycle Song](https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Bicycle%20Song)
+<kbd>
 
-**🎤 Artist:** Red Hot Chili Peppers
+[![Wonderwall](https://lastfm.freetls.fastly.net/i/u/174s/1b217359e775a8b6a7bc443abe5b08c2.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/1b217359e775a8b6a7bc443abe5b08c2.jpg)
 
-<sub>Last updated: 2025-04-07 16:23:55 (Nepal Time)</sub>
+</kbd>
+
+### [Wonderwall](https://www.youtube.com/results?search_query=Oasis%20Wonderwall)
+
+**🎤 Artist:** Oasis
+
+**💿 Album:** (What's the Story) Morning Glory?
+
+<sub>Last updated: 2025-04-07 16:34:24 (Nepal Time)</sub>
 
 </div>
 
