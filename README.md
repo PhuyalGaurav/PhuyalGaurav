@@ -10,17 +10,17 @@
 
 <kbd>
 
-[![Wonderwall](https://lastfm.freetls.fastly.net/i/u/174s/1b217359e775a8b6a7bc443abe5b08c2.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/1b217359e775a8b6a7bc443abe5b08c2.jpg)
+[![Stop Crying Your Heart Out](https://lastfm.freetls.fastly.net/i/u/174s/6a54881070cc06d4d4a15f7847c4c255.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/6a54881070cc06d4d4a15f7847c4c255.jpg)
 
 </kbd>
 
-### [Wonderwall](https://www.youtube.com/results?search_query=Oasis%20Wonderwall)
+### [Stop Crying Your Heart Out](https://www.youtube.com/results?search_query=Oasis%20Stop%20Crying%20Your%20Heart%20Out)
 
 **🎤 Artist:** Oasis
 
-**💿 Album:** (What's the Story) Morning Glory?
+**💿 Album:** Heathen Chemistry
 
-<sub>Last updated: 2025-04-07 18:11:51 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-07 18:51:43 (Nepal Time)</sub>
 
 </div>
 
