@@ -6,7 +6,7 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
 <kbd>
 
@@ -20,7 +20,7 @@
 
 **💿 Album:** The Getaway
 
-<sub>Last updated: 2025-04-08 10:00:43 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-08 10:22:52 (Nepal Time)</sub>
 
 </div>
 
