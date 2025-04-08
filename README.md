@@ -6,21 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎵 Last played on YouTube Music
+## 🎧 Now playing on YouTube Music
 
 <kbd>
 
-[![Dark Necessities](https://lastfm.freetls.fastly.net/i/u/174s/7e1ee7dbc2c188790d7b4c732385c2f9.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/7e1ee7dbc2c188790d7b4c732385c2f9.jpg)
+[![Jigsaw Falling Into Place](https://lastfm.freetls.fastly.net/i/u/174s/9dbcd9399ac3e622b4f508323155b644.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/9dbcd9399ac3e622b4f508323155b644.jpg)
 
 </kbd>
 
-### [Dark Necessities](https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Dark%20Necessities)
+### [Jigsaw Falling Into Place](https://www.youtube.com/results?search_query=Radiohead%20Jigsaw%20Falling%20Into%20Place)
 
-**🎤 Artist:** Red Hot Chili Peppers
+**🎤 Artist:** Radiohead
 
-**💿 Album:** The Getaway
+**💿 Album:** In Rainbows
 
-<sub>Last updated: 2025-04-08 18:11:15 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-08 18:52:07 (Nepal Time)</sub>
 
 </div>
 
