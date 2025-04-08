@@ -6,7 +6,7 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
 <kbd>
 
@@ -20,7 +20,7 @@
 
 **💿 Album:** Smash
 
-<sub>Last updated: 2025-04-08 19:34:40 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-08 19:58:54 (Nepal Time)</sub>
 
 </div>
 
