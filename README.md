@@ -6,21 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎵 Last played on YouTube Music
+## 🎧 Now playing on YouTube Music
 
 <kbd>
 
-[![Stop Crying Your Heart Out](https://lastfm.freetls.fastly.net/i/u/174s/6a54881070cc06d4d4a15f7847c4c255.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/6a54881070cc06d4d4a15f7847c4c255.jpg)
+[![Dark Necessities](https://lastfm.freetls.fastly.net/i/u/174s/7e1ee7dbc2c188790d7b4c732385c2f9.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/7e1ee7dbc2c188790d7b4c732385c2f9.jpg)
 
 </kbd>
 
-### [Stop Crying Your Heart Out](https://www.youtube.com/results?search_query=Oasis%20Stop%20Crying%20Your%20Heart%20Out)
+### [Dark Necessities](https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Dark%20Necessities)
 
-**🎤 Artist:** Oasis
+**🎤 Artist:** Red Hot Chili Peppers
 
-**💿 Album:** Heathen Chemistry
+**💿 Album:** The Getaway
 
-<sub>Last updated: 2025-04-08 09:36:53 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-08 10:00:43 (Nepal Time)</sub>
 
 </div>
 
