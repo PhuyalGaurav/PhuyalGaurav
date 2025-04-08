@@ -10,17 +10,17 @@
 
 <kbd>
 
-[![Heart-Shaped Box](https://lastfm.freetls.fastly.net/i/u/174s/b897255bf422baa93a42536af293f9f8.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/b897255bf422baa93a42536af293f9f8.jpg)
+[![Self Esteem](https://lastfm.freetls.fastly.net/i/u/174s/8e61d9b028cea0da7188646cbee22bc5.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/8e61d9b028cea0da7188646cbee22bc5.jpg)
 
 </kbd>
 
-### [Heart-Shaped Box](https://www.youtube.com/results?search_query=Nirvana%20Heart-Shaped%20Box)
+### [Self Esteem](https://www.youtube.com/results?search_query=The%20Offspring%20Self%20Esteem)
 
-**🎤 Artist:** Nirvana
+**🎤 Artist:** The Offspring
 
-**💿 Album:** In Utero
+**💿 Album:** Smash
 
-<sub>Last updated: 2025-04-08 19:24:59 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-08 19:34:40 (Nepal Time)</sub>
 
 </div>
 
