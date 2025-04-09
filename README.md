@@ -6,21 +6,13 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎵 Last played on YouTube Music
+## 🎧 Now playing on YouTube Music
 
-<kbd>
+### [Heavydirtysoul](https://www.youtube.com/results?search_query=twenty%20one%20pilots%20Heavydirtysoul)
 
-[![Self Esteem](https://lastfm.freetls.fastly.net/i/u/174s/8e61d9b028cea0da7188646cbee22bc5.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/8e61d9b028cea0da7188646cbee22bc5.jpg)
+**🎤 Artist:** twenty one pilots
 
-</kbd>
-
-### [Self Esteem](https://www.youtube.com/results?search_query=The%20Offspring%20Self%20Esteem)
-
-**🎤 Artist:** The Offspring
-
-**💿 Album:** Smash
-
-<sub>Last updated: 2025-04-09 16:27:22 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-09 16:56:34 (Nepal Time)</sub>
 
 </div>
 
