@@ -6,13 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎵 Last played on YouTube Music
+## 🎧 Now playing on YouTube Music
 
-### [Lane Boy](https://www.youtube.com/results?search_query=twenty%20one%20pilots%20Lane%20Boy)
+<kbd>
 
-**🎤 Artist:** twenty one pilots
+[![Mardy Bum](https://lastfm.freetls.fastly.net/i/u/174s/5e1480805bdf29da606e0de2ac07b205.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/5e1480805bdf29da606e0de2ac07b205.jpg)
 
-<sub>Last updated: 2025-04-09 19:14:49 (Nepal Time)</sub>
+</kbd>
+
+### [Mardy Bum](https://www.youtube.com/results?search_query=Arctic%20Monkeys%20Mardy%20Bum)
+
+**🎤 Artist:** Arctic Monkeys
+
+**💿 Album:** Whatever People Say I Am, That's What I'm Not
+
+<sub>Last updated: 2025-04-09 20:04:49 (Nepal Time)</sub>
 
 </div>
 
