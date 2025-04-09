@@ -6,13 +6,13 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
-### [Heavydirtysoul](https://www.youtube.com/results?search_query=twenty%20one%20pilots%20Heavydirtysoul)
+### [Lane Boy](https://www.youtube.com/results?search_query=twenty%20one%20pilots%20Lane%20Boy)
 
 **🎤 Artist:** twenty one pilots
 
-<sub>Last updated: 2025-04-09 16:56:34 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-09 18:24:02 (Nepal Time)</sub>
 
 </div>
 
