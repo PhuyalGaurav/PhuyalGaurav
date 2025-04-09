@@ -6,21 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
 <kbd>
 
-[![Mardy Bum](https://lastfm.freetls.fastly.net/i/u/174s/5e1480805bdf29da606e0de2ac07b205.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/5e1480805bdf29da606e0de2ac07b205.jpg)
+[![Drive](https://lastfm.freetls.fastly.net/i/u/174s/4384d762a0d44a45aa5f35ebcade8eef.png)](https://lastfm.freetls.fastly.net/i/u/174s/4384d762a0d44a45aa5f35ebcade8eef.png)
 
 </kbd>
 
-### [Mardy Bum](https://www.youtube.com/results?search_query=Arctic%20Monkeys%20Mardy%20Bum)
+### [Drive](https://www.youtube.com/results?search_query=Incubus%20Drive)
 
-**🎤 Artist:** Arctic Monkeys
+**🎤 Artist:** Incubus
 
-**💿 Album:** Whatever People Say I Am, That's What I'm Not
+**💿 Album:** Make Yourself
 
-<sub>Last updated: 2025-04-09 20:04:49 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-09 21:08:41 (Nepal Time)</sub>
 
 </div>
 
