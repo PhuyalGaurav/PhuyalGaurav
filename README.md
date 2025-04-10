@@ -8,19 +8,11 @@
 
 ## 🎵 Last played on YouTube Music
 
-<kbd>
+### [Oasis - Acoustic Guitar - Original Vocal Track - Chords](https://www.youtube.com/results?search_query=Live%20Forever%20Oasis%20-%20Acoustic%20Guitar%20-%20Original%20Vocal%20Track%20-%20Chords)
 
-[![Drive](https://lastfm.freetls.fastly.net/i/u/174s/4384d762a0d44a45aa5f35ebcade8eef.png)](https://lastfm.freetls.fastly.net/i/u/174s/4384d762a0d44a45aa5f35ebcade8eef.png)
+**🎤 Artist:** Live Forever
 
-</kbd>
-
-### [Drive](https://www.youtube.com/results?search_query=Incubus%20Drive)
-
-**🎤 Artist:** Incubus
-
-**💿 Album:** Make Yourself
-
-<sub>Last updated: 2025-04-10 20:03:58 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-10 21:05:51 (Nepal Time)</sub>
 
 </div>
 
