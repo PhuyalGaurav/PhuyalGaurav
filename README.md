@@ -10,17 +10,17 @@
 
 <kbd>
 
-[![Antichrist](https://lastfm.freetls.fastly.net/i/u/174s/912a3fbec6b2c7e8cf7223319940810f.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/912a3fbec6b2c7e8cf7223319940810f.jpg)
+[![MOTTO](https://lastfm.freetls.fastly.net/i/u/174s/1562d05b1c4daa9e368589517e44a386.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/1562d05b1c4daa9e368589517e44a386.jpg)
 
 </kbd>
 
-### [Antichrist](https://www.youtube.com/results?search_query=Eminem%20Antichrist)
+### [MOTTO](https://www.youtube.com/results?search_query=NF%20MOTTO)
 
-**🎤 Artist:** Eminem
+**🎤 Artist:** NF
 
-**💿 Album:** The Death of Slim Shady (Coup de Grâce)
+**💿 Album:** HOPE
 
-<sub>Last updated: 2025-04-11 16:04:57 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-11 17:00:50 (Nepal Time)</sub>
 
 </div>
 
