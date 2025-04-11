@@ -6,21 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
 <kbd>
 
-[![The Internet's Getting Worse](https://lastfm.freetls.fastly.net/i/u/174s/d4cc850c0905e976a958270c048c0422.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/d4cc850c0905e976a958270c048c0422.jpg)
+[![Antichrist](https://lastfm.freetls.fastly.net/i/u/174s/912a3fbec6b2c7e8cf7223319940810f.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/912a3fbec6b2c7e8cf7223319940810f.jpg)
 
 </kbd>
 
-### [The Internet's Getting Worse](https://www.youtube.com/results?search_query=Tom%20Simons%20The%20Internet%27s%20Getting%20Worse)
+### [Antichrist](https://www.youtube.com/results?search_query=Eminem%20Antichrist)
 
-**🎤 Artist:** Tom Simons
+**🎤 Artist:** Eminem
 
-**💿 Album:** The Internet's Getting Worse
+**💿 Album:** The Death of Slim Shady (Coup de Grâce)
 
-<sub>Last updated: 2025-04-11 13:03:25 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-11 14:10:57 (Nepal Time)</sub>
 
 </div>
 
