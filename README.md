@@ -6,21 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎵 Last played on YouTube Music
+## 🎧 Now playing on YouTube Music
 
 <kbd>
 
-[![Routines in the Night](https://lastfm.freetls.fastly.net/i/u/174s/44592187ade17dafe3531db1b7cafbe1.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/44592187ade17dafe3531db1b7cafbe1.jpg)
+[![Flowers](https://lastfm.freetls.fastly.net/i/u/174s/d0c2c98a6a2e3e3ca2ca647e70fbf5b7.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/d0c2c98a6a2e3e3ca2ca647e70fbf5b7.jpg)
 
 </kbd>
 
-### [Routines in the Night](https://www.youtube.com/results?search_query=twenty%20one%20pilots%20Routines%20in%20the%20Night)
+### [Flowers](https://www.youtube.com/results?search_query=Miley%20Cyrus%20Flowers)
 
-**🎤 Artist:** twenty one pilots
+**🎤 Artist:** Miley Cyrus
 
-**💿 Album:** Clancy
+**💿 Album:** Flowers
 
-<sub>Last updated: 2025-04-11 18:22:55 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-11 19:12:51 (Nepal Time)</sub>
 
 </div>
 
