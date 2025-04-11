@@ -6,21 +6,13 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
-<kbd>
+### [Champagne Supernova (Official HD Remastered Video)](https://www.youtube.com/results?search_query=Oasis%20Champagne%20Supernova%20%28Official%20HD%20Remastered%20Video%29)
 
-[![Flowers](https://lastfm.freetls.fastly.net/i/u/174s/d0c2c98a6a2e3e3ca2ca647e70fbf5b7.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/d0c2c98a6a2e3e3ca2ca647e70fbf5b7.jpg)
+**🎤 Artist:** Oasis
 
-</kbd>
-
-### [Flowers](https://www.youtube.com/results?search_query=Miley%20Cyrus%20Flowers)
-
-**🎤 Artist:** Miley Cyrus
-
-**💿 Album:** Flowers
-
-<sub>Last updated: 2025-04-11 19:12:51 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-11 20:03:32 (Nepal Time)</sub>
 
 </div>
 
