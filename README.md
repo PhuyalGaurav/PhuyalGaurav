@@ -6,13 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎵 Last played on YouTube Music
+## 🎧 Now playing on YouTube Music
 
-### [The Social Network](https://www.youtube.com/results?search_query=Carbon%20Prevails%20%28HD%29%20-%20From%20the%20Soundtrack%20to%20The%20Social%20Network)
+<kbd>
 
-**🎤 Artist:** Carbon Prevails (HD) - From the Soundtrack to
+[![The Internet's Getting Worse](https://lastfm.freetls.fastly.net/i/u/174s/d4cc850c0905e976a958270c048c0422.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/d4cc850c0905e976a958270c048c0422.jpg)
 
-<sub>Last updated: 2025-04-11 12:12:29 (Nepal Time)</sub>
+</kbd>
+
+### [The Internet's Getting Worse](https://www.youtube.com/results?search_query=Tom%20Simons%20The%20Internet%27s%20Getting%20Worse)
+
+**🎤 Artist:** Tom Simons
+
+**💿 Album:** The Internet's Getting Worse
+
+<sub>Last updated: 2025-04-11 13:03:25 (Nepal Time)</sub>
 
 </div>
 
