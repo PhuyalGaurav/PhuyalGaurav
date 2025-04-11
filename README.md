@@ -10,17 +10,17 @@
 
 <kbd>
 
-[![MOTTO](https://lastfm.freetls.fastly.net/i/u/174s/1562d05b1c4daa9e368589517e44a386.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/1562d05b1c4daa9e368589517e44a386.jpg)
+[![Routines in the Night](https://lastfm.freetls.fastly.net/i/u/174s/44592187ade17dafe3531db1b7cafbe1.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/44592187ade17dafe3531db1b7cafbe1.jpg)
 
 </kbd>
 
-### [MOTTO](https://www.youtube.com/results?search_query=NF%20MOTTO)
+### [Routines in the Night](https://www.youtube.com/results?search_query=twenty%20one%20pilots%20Routines%20in%20the%20Night)
 
-**🎤 Artist:** NF
+**🎤 Artist:** twenty one pilots
 
-**💿 Album:** HOPE
+**💿 Album:** Clancy
 
-<sub>Last updated: 2025-04-11 17:00:50 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-11 18:22:55 (Nepal Time)</sub>
 
 </div>
 
