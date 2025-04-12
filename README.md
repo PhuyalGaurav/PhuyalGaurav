@@ -6,21 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎵 Last played on YouTube Music
+## 🎧 Now playing on YouTube Music
 
 <kbd>
 
-[![Young Dumb & Broke](https://lastfm.freetls.fastly.net/i/u/174s/625d8735f4f0bf1cbf3c779fd4746bdc.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/625d8735f4f0bf1cbf3c779fd4746bdc.jpg)
+[![Learn to Fly](https://lastfm.freetls.fastly.net/i/u/174s/5f47acfda92b4ff488a52aee4b80da3f.png)](https://lastfm.freetls.fastly.net/i/u/174s/5f47acfda92b4ff488a52aee4b80da3f.png)
 
 </kbd>
 
-### [Young Dumb & Broke](https://www.youtube.com/results?search_query=Khalid%20Young%20Dumb%20%26%20Broke)
+### [Learn to Fly](https://www.youtube.com/results?search_query=Foo%20Fighters%20Learn%20to%20Fly)
 
-**🎤 Artist:** Khalid
+**🎤 Artist:** Foo Fighters
 
-**💿 Album:** American Teen
+**💿 Album:** There Is Nothing Left to Lose
 
-<sub>Last updated: 2025-04-12 23:01:18 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-13 00:08:49 (Nepal Time)</sub>
 
 </div>
 
