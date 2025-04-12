@@ -6,21 +6,21 @@
 <!-- YOUTUBE-MUSIC-START -->
 <div align='center'>
 
-## 🎧 Now playing on YouTube Music
+## 🎵 Last played on YouTube Music
 
 <kbd>
 
-[![Learn to Fly](https://lastfm.freetls.fastly.net/i/u/174s/5f47acfda92b4ff488a52aee4b80da3f.png)](https://lastfm.freetls.fastly.net/i/u/174s/5f47acfda92b4ff488a52aee4b80da3f.png)
+[![Somebody Told Me](https://lastfm.freetls.fastly.net/i/u/174s/fae9c99bbb6ae827b508a97328551912.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/fae9c99bbb6ae827b508a97328551912.jpg)
 
 </kbd>
 
-### [Learn to Fly](https://www.youtube.com/results?search_query=Foo%20Fighters%20Learn%20to%20Fly)
+### [Somebody Told Me](https://www.youtube.com/results?search_query=The%20Killers%20Somebody%20Told%20Me)
 
-**🎤 Artist:** Foo Fighters
+**🎤 Artist:** The Killers
 
-**💿 Album:** There Is Nothing Left to Lose
+**💿 Album:** Hot Fuss
 
-<sub>Last updated: 2025-04-13 00:08:49 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-13 01:00:02 (Nepal Time)</sub>
 
 </div>
 
