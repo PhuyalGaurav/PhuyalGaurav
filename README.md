@@ -8,11 +8,19 @@
 
 ## 🎵 Last played on YouTube Music
 
-### [Champagne Supernova (Official HD Remastered Video)](https://www.youtube.com/results?search_query=Oasis%20Champagne%20Supernova%20%28Official%20HD%20Remastered%20Video%29)
+<kbd>
 
-**🎤 Artist:** Oasis
+[![Young Dumb & Broke](https://lastfm.freetls.fastly.net/i/u/174s/625d8735f4f0bf1cbf3c779fd4746bdc.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/625d8735f4f0bf1cbf3c779fd4746bdc.jpg)
 
-<sub>Last updated: 2025-04-12 12:09:34 (Nepal Time)</sub>
+</kbd>
+
+### [Young Dumb & Broke](https://www.youtube.com/results?search_query=Khalid%20Young%20Dumb%20%26%20Broke)
+
+**🎤 Artist:** Khalid
+
+**💿 Album:** American Teen
+
+<sub>Last updated: 2025-04-12 13:01:43 (Nepal Time)</sub>
 
 </div>
 
