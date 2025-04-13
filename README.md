@@ -20,7 +20,7 @@
 
 **💿 Album:** Hot Fuss
 
-<sub>Last updated: 2025-04-13 13:01:54 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-13 14:07:13 (Nepal Time)</sub>
 
 </div>
 
