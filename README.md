@@ -10,17 +10,17 @@
 
 <kbd>
 
-[![Somebody Told Me](https://lastfm.freetls.fastly.net/i/u/174s/fae9c99bbb6ae827b508a97328551912.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/fae9c99bbb6ae827b508a97328551912.jpg)
+[![euphoria](https://lastfm.freetls.fastly.net/i/u/174s/b2946e7a8ca6279fd346cc4f6ae95087.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/b2946e7a8ca6279fd346cc4f6ae95087.jpg)
 
 </kbd>
 
-### [Somebody Told Me](https://www.youtube.com/results?search_query=The%20Killers%20Somebody%20Told%20Me)
+### [euphoria](https://www.youtube.com/results?search_query=Kendrick%20Lamar%20euphoria)
 
-**🎤 Artist:** The Killers
+**🎤 Artist:** Kendrick Lamar
 
-**💿 Album:** Hot Fuss
+**💿 Album:** euphoria
 
-<sub>Last updated: 2025-04-13 18:19:53 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-13 19:10:47 (Nepal Time)</sub>
 
 </div>
 
