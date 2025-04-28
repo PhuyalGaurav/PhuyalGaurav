@@ -10,17 +10,17 @@
 
 <kbd>
 
-[![euphoria](https://lastfm.freetls.fastly.net/i/u/174s/b2946e7a8ca6279fd346cc4f6ae95087.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/b2946e7a8ca6279fd346cc4f6ae95087.jpg)
+[![In the City](https://lastfm.freetls.fastly.net/i/u/174s/7c083e0b346b429ab22145780eca2fb8.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/7c083e0b346b429ab22145780eca2fb8.jpg)
 
 </kbd>
 
-### [euphoria](https://www.youtube.com/results?search_query=Kendrick%20Lamar%20euphoria)
+### [In the City](https://www.youtube.com/results?search_query=Eagles%20In%20the%20City)
 
-**🎤 Artist:** Kendrick Lamar
+**🎤 Artist:** Eagles
 
-**💿 Album:** euphoria
+**💿 Album:** The Long Run
 
-<sub>Last updated: 2025-04-28 14:52:45 (Nepal Time)</sub>
+<sub>Last updated: 2025-04-28 16:50:45 (Nepal Time)</sub>
 
 </div>
 
