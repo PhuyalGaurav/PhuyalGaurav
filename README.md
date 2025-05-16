@@ -8,19 +8,11 @@
 
 ## 🎵 Last played on YouTube Music
 
-<kbd>
+### [Not Like Us but Kendrick has Alzheimers](https://www.youtube.com/results?search_query=kilobagz%20Not%20Like%20Us%20but%20Kendrick%20has%20Alzheimers)
 
-[![In the City](https://lastfm.freetls.fastly.net/i/u/174s/7c083e0b346b429ab22145780eca2fb8.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/7c083e0b346b429ab22145780eca2fb8.jpg)
+**🎤 Artist:** kilobagz
 
-</kbd>
-
-### [In the City](https://www.youtube.com/results?search_query=Eagles%20In%20the%20City)
-
-**🎤 Artist:** Eagles
-
-**💿 Album:** The Long Run
-
-<sub>Last updated: 2025-05-16 21:04:19 (Nepal Time)</sub>
+<sub>Last updated: 2025-05-16 22:09:51 (Nepal Time)</sub>
 
 </div>
 
