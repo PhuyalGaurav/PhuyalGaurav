@@ -8,11 +8,11 @@
 
 ## 🎵 Last played on YouTube Music
 
-### [Not Like Us but Kendrick has Alzheimers](https://www.youtube.com/results?search_query=kilobagz%20Not%20Like%20Us%20but%20Kendrick%20has%20Alzheimers)
+### [F1 x Uma Musume](https://www.youtube.com/results?search_query=F1pyoi%20Densetsu%20F1%20x%20Uma%20Musume)
 
-**🎤 Artist:** kilobagz
+**🎤 Artist:** F1pyoi Densetsu
 
-<sub>Last updated: 2025-05-17 05:03:15 (Nepal Time)</sub>
+<sub>Last updated: 2025-05-17 07:22:53 (Nepal Time)</sub>
 
 </div>
 
