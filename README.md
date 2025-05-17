@@ -8,11 +8,19 @@
 
 ## 🎵 Last played on YouTube Music
 
-### [F1 x Uma Musume](https://www.youtube.com/results?search_query=F1pyoi%20Densetsu%20F1%20x%20Uma%20Musume)
+<kbd>
 
-**🎤 Artist:** F1pyoi Densetsu
+[![Dosed](https://lastfm.freetls.fastly.net/i/u/174s/762956549157ae92043eb734a89a41b6.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/762956549157ae92043eb734a89a41b6.jpg)
 
-<sub>Last updated: 2025-05-17 13:02:27 (Nepal Time)</sub>
+</kbd>
+
+### [Dosed](https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Dosed)
+
+**🎤 Artist:** Red Hot Chili Peppers
+
+**💿 Album:** By the Way
+
+<sub>Last updated: 2025-05-17 14:08:25 (Nepal Time)</sub>
 
 </div>
 
