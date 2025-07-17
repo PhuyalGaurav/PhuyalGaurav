@@ -10,7 +10,7 @@
 
 <kbd>
 
-[![Dosed](https://lastfm.freetls.fastly.net/i/u/174s/762956549157ae92043eb734a89a41b6.jpg)](https://lastfm.freetls.fastly.net/i/u/174s/762956549157ae92043eb734a89a41b6.jpg)
+[![Dosed](https://lastfm.freetls.fastly.net/i/u/174s/f95067353057a3c59fe6ba90469e56c6.png)](https://lastfm.freetls.fastly.net/i/u/174s/f95067353057a3c59fe6ba90469e56c6.png)
 
 </kbd>
 
@@ -20,7 +20,7 @@
 
 **💿 Album:** By the Way
 
-<sub>Last updated: 2025-07-17 09:12:52 (Nepal Time)</sub>
+<sub>Last updated: 2025-07-17 10:22:45 (Nepal Time)</sub>
 
 </div>
 
